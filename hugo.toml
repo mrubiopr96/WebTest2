@@ -1,6 +1,6 @@
 baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Example Site"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,29 +11,24 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
+      introTitle = "This is mrubiopr96's test site."
+      introSubtitle = "There's not much to see here."
+      introPhoto = "/images/toast.png"
+      logo = "/images/toast-small.png"
     [[languages.en.menu.main]]
         name = "About"
         url = "page/about/"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "Collaborations"
+        url = "page/collaborations/"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Contact Us"
+        url = "page/contact/"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
 
   [languages.de]
     contentDir = "content/de" # Deutsch

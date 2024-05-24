@@ -7,4 +7,4 @@ keywords: ["about-us", "contact"]
 type: about
 ---
 
-about
+collaborations
