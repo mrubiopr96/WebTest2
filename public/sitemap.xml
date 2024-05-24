@@ -9,7 +9,9 @@
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:1313/dy/sitemap.xml</loc>
+    <loc>//localhost:1313/cat/sitemap.xml</loc>
+    
+      <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     
   </sitemap>
   

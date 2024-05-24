@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/page/about/</loc>
+    <loc>//localhost:1313/cat/page/about/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="//localhost:1313/cat/page/about/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/page/about/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/page/collaborations/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/collaborations/"
+                href="//localhost:1313/cat/page/about/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/page/collaborations/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/page/collaborations/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/page/contact/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/contact/"
+                href="//localhost:1313/cat/page/collaborations/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/page/contact/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/page/contact/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/"
+                href="//localhost:1313/cat/page/contact/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/page/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/"
+                href="//localhost:1313/cat/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/page/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/page/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/categories/"
+                href="//localhost:1313/cat/page/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/categories/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/tags/"
+                href="//localhost:1313/cat/categories/"
                 />
+  </url><url>
+    <loc>//localhost:1313/cat/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cat"
+                href="//localhost:1313/cat/tags/"
                 />
   </url>
 </urlset>

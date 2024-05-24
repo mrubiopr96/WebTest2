@@ -5,6 +5,7 @@ theme = "blist"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
+
   [languages.en]
     contentDir = "content/en" #English
     weight = 1
@@ -29,11 +30,30 @@ DefaultContentLanguageInSubdir = true
         url = "page/contact/"
         weight = 3
         
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
+	[languages.cat]
+    contentDir = "content/cat" #Catalan
+    weight = 2
+    languageName = "Catalan"
+    [languages.cat.params]
+      introTitle = "Aquest és el lloc de prova de mrubiopr96."
+      introSubtitle = "No hi ha molt a veure aquí."
+      introPhoto = "toast.png"
+      logo = "toast-small.png"
+    [[languages.cat.menu.main]]
+        name = "Sobre nosaltres"
+        url = "page/about/"
+        weight = 1
 
+    [[languages.cat.menu.main]]
+        name = "Col·laboracions"
+        url = "page/collaborations/"
+        weight = 2
+
+    [[languages.cat.menu.main]]
+        name = "Contactes"
+        url = "page/contact/"
+        weight = 3
+		
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
@@ -88,7 +108,7 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+  system = ""
 
   # Options for giscus, exclude hyphens
   repo = ""

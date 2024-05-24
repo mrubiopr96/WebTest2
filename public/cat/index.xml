@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Site</title>
+    <link>//localhost:1313/cat/</link>
+    <description>Recent content on Example Site</description>
+    <generator>Hugo</generator>
+    <language>cat</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/cat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/cat/page/about/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cat/page/about/</guid>
+      <description>sobre nosaltres</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/cat/page/collaborations/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cat/page/collaborations/</guid>
+      <description>col·laboracions</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/cat/page/contact/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cat/page/contact/</guid>
+      <description>contactes</description>
+    </item>
+  </channel>
+</rss>
