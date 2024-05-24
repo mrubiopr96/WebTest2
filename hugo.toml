@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "This is mrubiopr96's test site."
       introSubtitle = "There's not much to see here."
-      introPhoto = "/images/toast.png"
-      logo = "/images/toast-small.png"
+      introPhoto = "images/toast.png"
+      logo = "images/toast-small.png"
     [[languages.en.menu.main]]
         name = "About"
         url = "page/about/"
