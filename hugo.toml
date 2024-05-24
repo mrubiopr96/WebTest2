@@ -1,3 +1,4 @@
+baseurl = "http://example.com/"
 metaDataFormat = "yaml"
 title = "Example Site"
 theme = "blist"
