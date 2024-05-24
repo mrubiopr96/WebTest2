@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/page/about/</loc>
+    <loc>http://localhost:1313/WebTest2/en/page/about/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/about/"
+                href="http://localhost:1314/WebTest2/cat/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/about/"
+                href="http://localhost:1313/WebTest2/en/page/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/collaborations/</loc>
+    <loc>http://localhost:1313/WebTest2/en/page/collaborations/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/collaborations/"
+                href="http://localhost:1314/WebTest2/cat/page/collaborations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/collaborations/"
+                href="http://localhost:1313/WebTest2/en/page/collaborations/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/contact/</loc>
+    <loc>http://localhost:1313/WebTest2/en/page/contact/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/contact/"
+                href="http://localhost:1314/WebTest2/cat/page/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/contact/"
+                href="http://localhost:1313/WebTest2/en/page/contact/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>http://localhost:1313/WebTest2/en/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/"
+                href="http://localhost:1314/WebTest2/cat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="http://localhost:1313/WebTest2/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/</loc>
+    <loc>http://localhost:1313/WebTest2/en/page/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/page/"
+                href="http://localhost:1314/WebTest2/cat/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/"
+                href="http://localhost:1313/WebTest2/en/page/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
+    <loc>http://localhost:1313/WebTest2/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/categories/"
+                href="http://localhost:1314/WebTest2/cat/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="http://localhost:1313/WebTest2/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>http://localhost:1313/WebTest2/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="//localhost:1313/cat/tags/"
+                href="http://localhost:1314/WebTest2/cat/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="http://localhost:1313/WebTest2/en/tags/"
                 />
   </url>
 </urlset>
