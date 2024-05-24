@@ -1,4 +1,4 @@
-
+baseUrl = "https://mrubiopr96.github.io/WebTest2/"
 metaDataFormat = "yaml"
 title = "Example Site"
 theme = "blist"
