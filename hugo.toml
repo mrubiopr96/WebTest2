@@ -1,4 +1,4 @@
-baseUrl = "https://mrubiopr96.github.io/"
+baseUrl = "https://webdeploytest.netlify.app/"
 metaDataFormat = "yaml"
 title = "Example Site"
 theme = "blist"
