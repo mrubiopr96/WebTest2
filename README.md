@@ -1,4 +1,3 @@
-markdown
 # Blitz Hugo Theme Deployment
 
 This repository is created to test the deployment of a GitHub hosted site using the Blitz Hugo theme. For the creation of this site, the example-site files and config files from the Blitz theme have been used.
