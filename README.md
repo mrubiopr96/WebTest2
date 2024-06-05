@@ -30,3 +30,7 @@ This will start a local server at `http://localhost:1313` where you can view the
 
 The configuration files used 
 for this site are based on the example-site files provided by the Blitz theme. You can customize these files according to your needs. The main configuration file is `config.toml`.
+
+### Page Preview
+
+You can check a live version of this page at the following link [webdeploytest](https://webdeploytest.netlify.app/en/).
